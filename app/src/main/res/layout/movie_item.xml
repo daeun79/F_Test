@@ -52,21 +52,13 @@
                     android:textColor="#FF0000FF"
                     android:textSize="16sp" />
 
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:paddingLeft="10dp"
-                    android:text="순위"
-                    android:textColor="#FF0000"
-                    android:textSize="16sp"/>
 
                 <TextView
                     android:id="@+id/movieRank"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="20dp"
-                    android:paddingLeft="20dp"
-                    android:text="순위2"
+                    android:paddingLeft="10dp"
+                    android:text="순위"
                     android:textColor="#FF0000"
                     android:textSize="16sp" />
 
@@ -74,7 +66,7 @@
                     android:id="@+id/movieOpen"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="20dp"
+                    android:layout_marginTop="10dp"
                     android:paddingLeft="10dp"
                     android:text="개봉일"
                     android:textColor="#40FF00"
